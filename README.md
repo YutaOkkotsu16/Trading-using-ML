@@ -11,7 +11,7 @@ This project implements a trading strategy using machine learning techniques. Th
 - [Trading Strategy](#trading-strategy)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -86,6 +86,4 @@ The strategy's performance is visualized and compared to a benchmark. The cumula
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
